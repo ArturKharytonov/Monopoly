@@ -1,0 +1,16 @@
+C:\Users\Arturio Armany\Desktop\C #\Monopoly_\Monopoly_\obj\Debug\Monopoly_.csproj.AssemblyReference.cache
+C:\Users\Arturio Armany\Desktop\C #\Monopoly_\Monopoly_\obj\Debug\Monopoly_.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arturio Armany\Desktop\C #\Monopoly_\Monopoly_\obj\Debug\Monopoly_.csproj.CoreCompileInputs.cache
+C:\Users\Arturio Armany\Desktop\C #\Monopoly_\Monopoly_\bin\Debug\Monopoly_.exe.config
+C:\Users\Arturio Armany\Desktop\C #\Monopoly_\Monopoly_\bin\Debug\Monopoly_.exe
+C:\Users\Arturio Armany\Desktop\C #\Monopoly_\Monopoly_\bin\Debug\Monopoly_.pdb
+C:\Users\Arturio Armany\Desktop\C #\Monopoly_\Monopoly_\obj\Debug\Monopoly_.exe
+C:\Users\Arturio Armany\Desktop\C #\Monopoly_\Monopoly_\obj\Debug\Monopoly_.pdb
+D:\PROGRAMMING\C# projects\Console Projects\Monopoly_\Monopoly_\bin\Debug\Monopoly_.exe.config
+D:\PROGRAMMING\C# projects\Console Projects\Monopoly_\Monopoly_\bin\Debug\Monopoly_.exe
+D:\PROGRAMMING\C# projects\Console Projects\Monopoly_\Monopoly_\bin\Debug\Monopoly_.pdb
+D:\PROGRAMMING\C# projects\Console Projects\Monopoly_\Monopoly_\obj\Debug\Monopoly_.csproj.AssemblyReference.cache
+D:\PROGRAMMING\C# projects\Console Projects\Monopoly_\Monopoly_\obj\Debug\Monopoly_.csproj.SuggestedBindingRedirects.cache
+D:\PROGRAMMING\C# projects\Console Projects\Monopoly_\Monopoly_\obj\Debug\Monopoly_.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C# projects\Console Projects\Monopoly_\Monopoly_\obj\Debug\Monopoly_.exe
+D:\PROGRAMMING\C# projects\Console Projects\Monopoly_\Monopoly_\obj\Debug\Monopoly_.pdb
